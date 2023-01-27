@@ -1,0 +1,118 @@
+port:"9200"
+"authentication disabled" port:5900,5901
+title:camera
+webcam has_screenshot:true
+has_screenshot:true IP Webcam
+server: webcampxp
+server: "webcam 7"
+title:"blue iris remote view"
+title:"ui3 -"
+title:"Network Camera VB-M600"
+product:"Yawcam webcam viewer httpd"
+title:"IPCam Client"
+server: GeoHttpServer
+server: VVTK-HTTP-Server
+title:"Avigilon"
+ACTi
+WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."
+title:"+tm01+"
+server: "i-Catcher Console"
+Netwave IP Camera Content-Length: 2574
+200 ok dvr port:"81"
+WVC80N
+device:"voip"
+device:"voip phone"
+server: snom
+"snom embedded 200 OK"
+AddPac
+mcu: tandberg
+title:"polycom"
+title:"openstage"
+39 voip
+Server: MSOS/2.0 mawebserver/1.1
+product:MySQL
+mongodb port:27017
+"MongoDB Server Information" port:27017
+"MongoDB Server Information { "metrics":"
+"Set-Cookie: mongo-express=" "200 OK"
+kibana content-length:217
+port:5432 PostgreSQL
+product:"CouchDB"
+port:"5984"+Server: "CouchDB/2.1.0"
+Maritime devices
+maritime
+sailor
+port:502
+scada
+"schneider"
+"siemens"
+port:20000
+org:marlink
+satcom
+inmarsat
+vsat
+ECDIS
+uhp vsat terminal software -password
+ssl:"Cobham SATCOM"
+title:"Slocum Fleet Mission Control"
+Files & directories
+http.title:"Index of /"
+port:80 title:"Index of /"
+"220" "230 Login successful." port:21
+230 'anonymous@' login ok
+"Anonymous+access+allowed" port:"21"
+vsftpd 2.3.4
+ftp port:"10000"
+FTP;;Anonymous FTP;;port:21 230
+FTP;;China FTP;;country:CN port:21
+FTP;;Filezilla;;filezilla
+FTP;;FTP anon successful;;"Anonymous user logged in"
+FTP;;FTP anon successful;;"Anonymous+access+allowed"  connected
+FTP;;FTP anonymous or guest access;;ftp 230 -unknown -print
+FTP;;GoldenFTP 4.70;;GoldenFTP
+FTP;;GoldenFTP Server;;Golden FTP Server
+"Authentication: disabled" port:445 product:"Samba"
+"QuickBooks files OverNetwork" -unix port:445
+filezilla port:"21"
+os:"Windows 5.0"
+os:"Windows 5.1"
+os:Windows 2003
+os:Windows 2008
+os:"Windows Vista"
+os:"Windows 7"
+os:"Windows 8"
+os:Windows 2011
+os:"Windows 8.1"
+os:Windows 2012
+Default / generic credentials
+admin 1234
+"default password"
+test test port:"80"
+"authentication disabled" "RFB 003.008"
+"root@" port:23 -login -password -name -Session
+port:23 console gateway
+html:"def_wirelesspassword"
+"server: Bomgar" "200 OK"
+Printers
+printer
+"HP-ChaiSOE" port:"80"
+title:"syncthru web service"
+"Location: /main/main.html" debut
+port:161 hp
+port:23 "Password is not set"
+"Laser Printer FTP Server"
+Printer Type: Lexmark
+http 200 server epson -upnp
+"Server: EPSON-HTTP" "200 OK"
+ssl:"Xerox Generic Root"
+"Server: CANON HTTP Server"
+port:4444 system32
+solar
+ETH
+http.html:"* The wp-config.php creation script uses this file"
+http.title:"Nordex Control"
+"DICOM Server Response" port:104
+http.title:"Tesla"
+"in-tank inventory" port:10001
+http.title:"dashboard"
+http.title:"control panel"
